@@ -1,5 +1,6 @@
 # What drives the price of a car?
 **Assignment Jupyter Notebook URL Address:** https://github.com/zaboush/Model_11_Assignment_11p1/blob/main/prompt_II_091725.ipynb
+## Note: I couldn't upload vehicles data file due its size (50.5MB) exceeding Github maximum limit of 25MB, therefore I zipped the data file and uploaded it. Please decompress the data file prior to executing my Jupyter notebook.
 ## Project Objectives
 The business problem of identifying key drivers for used car prices can be reframed as a data problem:
 Given a dataset of used cars with various features (e.g., make, model, year, mileage, condition), build a regression model to predict the price of a used car based on these features.
